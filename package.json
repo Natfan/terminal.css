@@ -38,7 +38,7 @@
     "live-server": "^1.2.1",
     "mkdirp": "^0.5.1",
     "nanogen": "^0.4.2",
-    "postcss": "^7.0.18",
+    "postcss": "^8.2.10",
     "serve": "^11.2.0",
     "stylelint": "^11.0.0",
     "stylelint-config-standard": "^19.0.0"
